@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['nl'] = {
   ['buy_license'] = 'Licentie kopen?',
   ['press_access'] = 'Druk op ~INPUT_CONTEXT~ om de Vergunningswinkel te openen',
   ['not_enough_money'] = 'je hebt niet genoeg geld',
